@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello visitor! I am Shubham Jain, a Software Developer from Ottawa, Canada working for [Lytica Inc](https://www.lytica.com). I've been a professional developer for 3 years now and have worked with technologies like Java, JavaScript, Python, C#, NodeJS, Angular, Django and databases like MSSQL Server, PostgreSQL, and MongoDB. I like building new stuff and work well with other people as a part of the team. 
+
+Besides programming, I like reading books, cooking, tinkling with new gadgets..
+
+My Personality type is **INFJ-T (Advocate)**
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamj2604&show_icons=true&count_private=true" alt="Shubham Jain" />
