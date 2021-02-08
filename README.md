@@ -21,7 +21,7 @@ Besides programming, I like reading books, cooking, tinkling with new gadgets..
 
 My Personality type is **INFJ-T (Advocate)**
 
-![Profile views](https://gpvc.arturio.dev/[shubhamj-code])
+![Profile views](https://gpvc.arturio.dev/shubhamj-code)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamj-code&show_icons=true&count_private=true" alt="Shubham Jain" />
