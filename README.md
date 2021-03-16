@@ -25,3 +25,7 @@ My Personality type is **INFJ-T (Advocate)**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamj-code&show_icons=true&count_private=true" alt="Shubham Jain" />
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
