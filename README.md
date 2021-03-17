@@ -29,6 +29,7 @@ My Personality type is **INFJ-T (Advocate)**
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         44 mins         █████████████████████▒░░░   85.80 % 
+TypeScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 <!--END_SECTION:waka-->
