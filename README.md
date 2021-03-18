@@ -29,7 +29,9 @@ My Personality type is **INFJ-T (Advocate)**
 
 <!--START_SECTION:waka-->
 ```text
-HTML         44 mins         █████████████████████▒░░░   85.80 % 
-TypeScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+HTML         1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   32.53 % 
+TypeScript   52 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Java         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
+JSON         34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
 <!--END_SECTION:waka-->
