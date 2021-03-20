@@ -31,10 +31,10 @@ My Personality type is **INFJ-T (Advocate)**
 ```text
 Week: 12 March, 2021 - 19 March, 2021
 
-TypeScript   3 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.53 % 
-HTML         1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.67 % 
-JSON         1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Java         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Java         5 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.63 % 
+TypeScript   4 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 % 
+HTML         2 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+JSON         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+XML          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 <!--END_SECTION:waka-->
