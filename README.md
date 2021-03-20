@@ -29,7 +29,7 @@ My Personality type is **INFJ-T (Advocate)**
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
+Week: 12 March, 2021 - 19 March, 2021
 
 TypeScript   3 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.53 % 
 HTML         1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.67 % 
