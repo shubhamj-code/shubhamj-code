@@ -25,16 +25,3 @@ My Personality type is **INFJ-T (Advocate)**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shubhamj-code&show_icons=true&count_private=true" alt="Shubham Jain" />
-
-
-<!--START_SECTION:waka-->
-```text
-Week: 20 March, 2021 - 27 March, 2021
-
-Java         7 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.90 % 
-HTML         2 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 % 
-TypeScript   2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-SCSS         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-XML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-```
-<!--END_SECTION:waka-->
